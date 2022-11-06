@@ -38,12 +38,12 @@
 
 ![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anais&show_icons=true&theme=dark&locale=en&layout=compact" alt="anaisVA" /</p>
 
 ---
 
 ### 📒 Contáctenme: 
+
 <p align="center">
-<a href="https://www.linkedin.com/in/anais-valverde-06aa27248/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="AnaisValverde" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anais-valverde-06aa27248/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="AnaisValverde" height="40" width="50" /></a>
 </p>
