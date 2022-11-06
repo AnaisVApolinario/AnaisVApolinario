@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="![fondoGitHub](https://user-images.githubusercontent.com/105659228/200151272-71b35038-0373-41f1-b6c5-f49455746b35.png)" width="200"/>
+  <img src="https://media.giphy.com/media/d6WWh3Em7kWHu/giphy.gif" width="300"/>
   <h1 align="center">Hola 👋, Soy Anais Valverde
   </h1>
-  <h3 align="center"> Mi interés por la programación surgió cuando me di cuenta como unas cortas lineas de código podían hacer que sucedieran eventos, que se crearan efectos y que todo funcionara; esa fue mi motivación para convertirme en Front-End Developer. 
+  <h4 align="center"> Mi interés por la programación surgió cuando me di cuenta como unas cortas lineas de código podían hacer que sucedieran eventos, que se crearan efectos y que todo funcionara; esa fue mi motivación para convertirme en Front-End Developer. 
   Busco desarrollarme y crecer profesionalmente sé que el camino no es facil, pero no es una opcion rendirse.
-  </h3>
+  </h4>
 </div>
 
 ---
