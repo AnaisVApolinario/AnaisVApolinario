@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/d6WWh3Em7kWHu/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="300"/>
   <h1 align="center">Hola 👋, Soy Anais Valverde
   </h1>
   <h4 align="center"> Mi interés por la programación surgió cuando me di cuenta como unas cortas lineas de código podían hacer que sucedieran eventos, que se crearan efectos y que todo funcionara; esa fue mi motivación para convertirme en Front-End Developer. 
@@ -11,7 +11,7 @@
 
 ### 👩 Sobre mí :
 
-- 🔭 Actualmente me encuentro desarrollando proyectos de aprendizajes.
+- 🔭 Actualmente me encuentro desarrollando proyectos de aprendizajes, mientras busco oportunidades laborales.
 - 🌱 Estoy aprendiendo **Angular**.
 - 📫 Contáctame: **valverdeanais31@gmail.com**
 - ⚡ Amo programar con un fondo musical.
@@ -39,3 +39,11 @@
 ![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### 📒 Contáctenme: 
+<p align="center">
+<a href="https://www.linkedin.com/in/anais-valverde-06aa27248/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="AnaisValverde" height="30" width="40" /></a>
+</p>
