@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+  <img src="![fondoGitHub](https://user-images.githubusercontent.com/105659228/200151272-71b35038-0373-41f1-b6c5-f49455746b35.png)" width="200"/>
   <h1 align="center">Hola 👋, Soy Anais Valverde
   </h1>
   <h3 align="center"> Mi interés por la programación surgió cuando me di cuenta como unas cortas lineas de código podían hacer que sucedieran eventos, que se crearan efectos y que todo funcionara; esa fue mi motivación para convertirme en Front-End Developer. 
