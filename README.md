@@ -6,7 +6,9 @@
   Busco desarrollarme y crecer profesionalmente sé que el camino no es facil, pero no es una opcion rendirse.
   </h3>
 </div>
+
 ---
+
 ### 👩 Sobre mí :
 
 - 🔭 Actualmente me encuentro desarrollando proyectos de aprendizajes.
@@ -27,12 +29,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   </div>
 </div>
+
 ---
 
 ### 📈 Estadisticas: 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anais&theme=prussian&border_radius=4.1&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais&show_icons=true&theme=codeSTACKr)
+![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=Anais&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
