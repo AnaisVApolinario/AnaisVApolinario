@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="500"/>
   <h1 align="center">Hola 👋, Soy Anais Valverde
   </h1>
   <h4 align="center"> Mi interés por la programación surgió cuando me di cuenta como unas cortas lineas de código podían hacer que sucedieran eventos, que se crearan efectos y que todo funcionara; esa fue mi motivación para convertirme en Front-End Developer. 
@@ -45,5 +45,6 @@ p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
 ### 📒 Contáctenme: 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anais-valverde-06aa27248/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="AnaisValverde" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/anais-valverde-06aa27248/" target="blank">
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="AnaisValverde" height="40" width="50" /></a>
 </p>
