@@ -12,7 +12,7 @@
 ### 👩 Sobre mí :
 
 - 🔭 Actualmente me encuentro desarrollando proyectos de aprendizajes, mientras busco oportunidades laborales.
-- 🌱 Estoy aprendiendo **Angular**.
+- 🌱 Soy Front-End Developer y estoy aprendiendo **Angular**.
 - 📫 Contáctame: **valverdeanais31@gmail.com**
 - ⚡ Amo programar con un fondo musical.
 
@@ -37,7 +37,7 @@
 
 ![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaisVApolinario&show_icons=true&theme=cobalt)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaisVApolinario&langs_count=3&theme=react)]()
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaisVApolinario&langs_count=3)]() -->
 
 
 ---
