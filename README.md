@@ -47,6 +47,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/anais-valverde-06aa27248/" target="blank">
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="AnaisValverde" height="40" width="50" />
-</a>
-[ [![GitHub AnaisVApolinario](https://img.shields.io/github/followers/AnaisVApolinario?label=follow&style=social)(https://github.com/AnaisVApolinario)]](https://img.shields.io/github/followers/0?style=social)
+</a>  
+  ![GitHub AnaisVApolinario](https://img.shields.io/github/followers/AnaisVApolinario?style=social)
 </p>
