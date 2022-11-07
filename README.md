@@ -49,4 +49,5 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="AnaisValverde" height="40" width="50" />
 </a>
 </p>
+[![GitHub AnaisVApolinario](https://img.shields.io/github/followers/AnaisVApolinario?label=follow&style=social)](https://github.com/AnaisVApolinario)
 
