@@ -37,7 +37,7 @@
 
 ![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaisVApolinario&show_icons=true&theme=cobalt)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaisVApolinario&langs_count=5&theme=react)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaisVApolinario&langs_count=3&theme=react)]()
 
 
 ---
