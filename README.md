@@ -33,11 +33,10 @@
 ---
 
 ### 📈 Estadisticas: 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnaisVApolinario&theme=prussian&border_radius=4.1&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaisVApolinario&show_icons=true&theme=radical)
-](https://github.com/karlavasquez8/github-readme-stats)
+![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaisVApolinario&show_icons=true&theme=cobalt)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnaisVApolinario&theme=radical)
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anais&show_icons=true&theme=dark&locale=en&layout=compact" alt="anaisVA"/></p> -->
 
