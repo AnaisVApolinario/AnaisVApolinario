@@ -37,6 +37,8 @@
 
 ![Anais GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaisVApolinario&show_icons=true&theme=cobalt)
 
+<a href="https://github.com/AnaisVApolinario/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaisVApolinario&layout=compact&theme=buefy&hide_border=true" /></a>
+
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anais&show_icons=true&theme=dark&locale=en&layout=compact" alt="anaisVA"/></p> -->
 
