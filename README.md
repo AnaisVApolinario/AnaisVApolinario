@@ -44,8 +44,7 @@
 
 ### 📒 Contáctame: 
 
-<p align="center">
+<div align="center">
 [![Linkedin: anaisvalverde](https://img.shields.io/badge/anaisvalverde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaisvalverde/)](https://www.linkedin.com/in/anais-valverde-06aa27248/)
 [![GitHub AnaisVApolinario](https://img.shields.io/github/followers/AnaisVApolinario?label=follow&style=social)](https://github.com/AnaisVApolinario)
-  
-</p>
+
