@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="300" heigth="500"/>
   <h1 align="center">Hola 👋, Soy Anais Valverde
   </h1>
   <h4 align="center"> Mi interés por la programación surgió cuando me di cuenta como unas cortas lineas de código podían hacer que sucedieran eventos, que se crearan efectos y que todo funcionara; esa fue mi motivación para convertirme en Front-End Developer. 
