@@ -3,7 +3,7 @@
   <h1 align="center">Hola 👋, Soy Anais Valverde
   </h1>
   <h4 align="center"> Mi interés por la programación surgió cuando me di cuenta como unas cortas lineas de código podían hacer que sucedieran eventos, que se crearan efectos y que todo funcionara; esa fue mi motivación para convertirme en Front-End Developer. 
-  Busco desarrollarme y crecer profesionalmente sé que el camino no es facil, pero no es una opcion rendirse.
+  Busco desarrollarme y crecer profesionalmente sé que el camino no es facil, pero no es una opción rendirse.
   </h4>
 </div>
 
