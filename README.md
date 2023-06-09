@@ -12,7 +12,7 @@
 ### 👩 Sobre mí :
 
 - 🔭 Actualmente me encuentro desarrollando proyectos de aprendizajes, mientras busco oportunidades laborales.
-- 🌱 Soy Front-End Developer y estoy aprendiendo **Angular**.
+- 🌱 Soy Front-End Developer.
 - 📫 Contáctame: **valverdeanais31@gmail.com**
 - ⚡ Amo programar con música de fondo.
 
