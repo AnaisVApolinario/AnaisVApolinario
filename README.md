@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="400" height="200"/>
   <h1 align="center">Hola 👋, Soy Anais Valverde
   </h1>
-  <h4 align="center"> Descubrir cómo unas breves líneas de código pueden desencadenar eventos, crear efectos y hacer que todo funcione fue mi inspiración para convertirme en Front-End Developer. Desde entonces, he estado impulsado por el deseo de crecer y desarrollarme profesionalmente en este campo. 
-  Busco desarrollarme y crecer profesionalmente sé que el camino no es facil, pero no es una opción rendirse.
+  <h4 align="center"> Descubrir cómo unas breves líneas de código pueden desencadenar eventos, crear efectos y hacer que todo funcione fue mi inspiración para convertirme en Front-End Developer. Desde entonces, he estado impulsada por el deseo de crecer y desarrollarme profesionalmente en este campo. 
   </h4>
 </div>
 
